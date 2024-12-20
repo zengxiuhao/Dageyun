@@ -5,7 +5,7 @@
 大哥云VPN加速器，提供Trojan协议及V2Ray协议翻墙机场节点，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
 
 ## 大哥云优惠码
-大哥云优惠码：https://ca01.dgy01.cc/#/register?code=tmvWGy3P 
+大哥云优惠码：tmvWGy3P
 大哥云优惠码说明：新老用户任意套餐8.5折
 
 ## 大哥云优惠套餐
